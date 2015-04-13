@@ -170,7 +170,6 @@ PRODUCT_PACKAGES += \
     qcmediaplayer
 
 PRODUCT_BOOT_JARS += \
-    qcmediaplayer
 
 # Power
 PRODUCT_PACKAGES += \
@@ -201,7 +200,7 @@ PRODUCT_PACKAGES += \
 
 # Torch
 PRODUCT_PACKAGES += \
-    Torch
+    OmniTorch
 
 # USB
 PRODUCT_PACKAGES += \
